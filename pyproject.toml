@@ -1,0 +1,12 @@
+[project]
+name = "ai-hw2-cv"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "kagglehub>=1.0.3",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]
